@@ -65,8 +65,7 @@
                             <span class="fw-bold">Rp. 10.000</span>
                         </div>
                         <p class="card-text">
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Deskripsi Produknya
                         </p>
                         <button class="btn btn-primary w-100">Buy</button>
                     </div>
